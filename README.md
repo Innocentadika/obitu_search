@@ -1,5 +1,5 @@
 # obitu_search table scripts
-CREATE TABLE obituaries (
+CREATE TABLE orbit_form  (
     id INT AUTO_INCREMENT PRIMARY KEY,
     name VARCHAR(100),
     date_of_birth DATE,
